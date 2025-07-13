@@ -2,13 +2,13 @@
 
 body {
   font-family: 'Josefin Sans', sans-serif;
-  background-color: #4D2E5E;
-  color: #F2F2F2;
+  background-color: #5d9755;
+  color: #005207;
 }
 
 h1, h2, h3 {
   font-family: 'Mystery Quest', cursive;
-  color: #F6E27F; 
+  color: #033011; 
 }
 .menu ul {
     display: flex;
@@ -26,7 +26,7 @@ h1, h2, h3 {
   } 
 
   .menu a {
-    color: #8effaa; 
+    color: #5eeb26; 
   }
   .profile {
     display: flex;
@@ -53,7 +53,7 @@ h1, h2, h3 {
     padding: 20px;
     border-radius: 12px;
     background-color: rgba(255, 255, 255, 0.1);
-    color: #F2F2F2;
+    color: #005a1b;
     font-size: 1.1rem;
     line-height: 1.6;
   }
