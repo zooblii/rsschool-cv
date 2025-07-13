@@ -2,13 +2,13 @@
 
 body {
   font-family: 'Josefin Sans', sans-serif;
-  background-color: #5d9755;
-  color: #005207;
+  background-color: #30033b;
+  color: #fcf5bf;
 }
 
 h1, h2, h3 {
   font-family: 'Mystery Quest', cursive;
-  color: #033011; 
+  color: #eff16c; 
 }
 .menu ul {
     display: flex;
@@ -26,7 +26,7 @@ h1, h2, h3 {
   } 
 
   .menu a {
-    color: #5eeb26; 
+    color: #fd95e7; 
   }
   .profile {
     display: flex;
