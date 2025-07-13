@@ -10,3 +10,14 @@ h1, h2, h3 {
   font-family: 'Mystery Quest', cursive;
   color: #F6E27F; 
 }
+.menu ul {
+    display: flex; 
+    justify-content: center; 
+    gap: 20px; 
+    list-style: none;
+    border: 2px dotted #F6E27F; 
+    border-radius: 12px;  
+  }
+  .menu a {
+    color: #8effaa; 
+  }
