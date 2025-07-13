@@ -11,13 +11,20 @@ h1, h2, h3 {
   color: #F6E27F; 
 }
 .menu ul {
-    display: flex; 
-    justify-content: center; 
-    gap: 20px; 
+    display: flex;
+    gap: 20px;
+    justify-content: center;
     list-style: none;
-    border: 2px dotted #F6E27F; 
-    border-radius: 12px;  
+    padding: 0;
+    margin: 0;
   }
+  
+  .menu li {
+    border: 2px dotted #F6E27F;
+    padding: 5px 10px;
+    border-radius: 8px;
+  } 
+
   .menu a {
     color: #8effaa; 
   }
