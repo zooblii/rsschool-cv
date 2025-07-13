@@ -1,1 +1,9 @@
-css
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Mystery+Quest&display=swap');
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Mystery Quest', cursive;
+}
