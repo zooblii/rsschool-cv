@@ -2,8 +2,11 @@
 
 body {
   font-family: 'Josefin Sans', sans-serif;
+  background-color: #4D2E5E;
+  color: #F2F2F2;
 }
 
 h1, h2, h3 {
   font-family: 'Mystery Quest', cursive;
+  color: #F6E27F; 
 }
