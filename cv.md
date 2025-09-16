@@ -27,5 +27,5 @@ alert("Hello, " + name + "! Welcome to my website.");
 - Created visually engaging and interactive English lessons using Canva, Wordwall, and Quizlet
 
 ## Languages
-- English: C1 (Advanced). Practical experience in teaching and working with documentation.
+- English: C1 (Advanced).  Practical experience in teaching and working with documentation.
 - French: B1 (Intermediate). Academic background with conversational and reading skills.
