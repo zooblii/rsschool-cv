@@ -20,8 +20,9 @@ I am eager to grow as a developer and continuously learn new technologies.
    * adaptability
 
 ## Code Example
-let name = prompt("What's your name?");
-alert("Hello, " + name + "! Welcome to my website.");
+` ` ` 
+let name = prompt("What's your name?"); alert("Hello, " + name + "! Welcome to my website.");
+` ` ` 
 
 ## Experience
 - Created visually engaging and interactive English lessons using Canva, Wordwall, and Quizlet
